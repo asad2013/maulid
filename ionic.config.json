@@ -1,0 +1,7 @@
+{
+  "name": "maulid",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
